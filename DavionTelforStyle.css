@@ -1,0 +1,148 @@
+body {
+  background-color: white;
+}
+
+
+
+.Header {
+  background:url(./images/header_bg.jpg)0px 0px no-repeat;
+  background-size: cover;
+  background-attachment: contain;
+  text-align: center;
+  height: 500px;
+  margin: 0 auto;
+  padding: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+
+}
+
+.Header h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  text-align: left;
+  padding: 20px;
+  margin: 0px;
+  font-weight: 800;
+
+}
+.Header p {
+  color: white;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-stretch: ultra-expanded;
+
+}
+
+.Header button {
+  background-color: yellow;
+  width: 250px;
+  height:50px;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 5px;
+  border: 0;
+
+}
+
+.Benefits{
+  background: #f0efef;
+  font-family:'Open Sans', sans-serif;
+  margin: 0 auto;
+  height: 500px;
+  padding-top: 20px;
+
+} 
+.Benefits h2 {
+  color: #033048;
+  font-size: 26px;
+  font-weight: 600px;
+  margin-top: 0px;
+  padding-left: 40px;
+
+}
+.Benfits p {
+  font-size: 22px;
+  color: #606161;
+  font-weight: 600px;
+  padding-left: 40px;
+  border: 0;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.Benefits ul{
+  color: #606161;
+  font-size: 22px;
+  font-weight: 600px;
+  padding-left: 40px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.PartThree{
+  background: url(./images/testimonial_bg.jpg);
+  margin: 0 auto;
+  height: 400px;
+
+}
+
+.PartThree h1{
+  margin-top: 0px;
+  font-family:'Open Sans', sans-serif;
+  font-weight: 600px;
+  font-style: italic;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  padding-top: 100px;
+
+}
+
+.PartThree p{
+  color: white;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+
+}
+
+.Signup {
+  background: #f9e42e;
+  height:200px;
+  margin:0 auto;
+  text-align: center;
+
+}
+
+.Signup button {
+  color:white;
+  background-color: #033048;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-top: 80px;
+  border: 0;
+  width: 250px;
+  height:50px;
+
+}
+.ClosingDiv {
+  background-color: #121212;
+  height: 150px;
+  text-align: center;
+  margin: 0;
+}
+
+.ClosingDiv h1 {
+  color: #f9e42e;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+
+}
+.ClosingDiv footer {
+  color: white;
+  margin: 9px;
+  
+}
